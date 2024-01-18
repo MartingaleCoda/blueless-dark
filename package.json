@@ -2,7 +2,20 @@
   "name": "blueless-dark",
   "displayName": "Blueless Dark",
   "description": "Blueless Dark Color Theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "publisher": "MartingaleCoda",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MartingaleCoda/blueless-dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "martingalecoda",
+    "martingale coda",
+    "martingalecoda dark",
+    "martingale coda dark"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
