@@ -218,18 +218,6 @@
 		},
 		{
 			"scope": [
-				"variable",
-				"string constant.other.placeholder",
-				"entity.name.function",
-				"punctuation.definition.interpolation.end.bracket.curly.scss",
-				"punctuation.definition.interpolation.begin.bracket.curly.scss"
-			],
-			"settings": {
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
 				"punctuation.definition.interpolation.end.bracket.curly.scss",
 				"punctuation.definition.interpolation.begin.bracket.curly.scss"
 			],
@@ -260,15 +248,6 @@
 			],
 			"settings": {
 				"foreground": "#FFE73E"
-			}
-		},
-		{
-			"scope": [
-				"Keyword",
-				"Storage"
-			],
-			"settings": {
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -325,14 +304,6 @@
 		},
 		{
 			"scope": [
-				"keyword.control"
-			],
-			"settings": {
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": [
 				"comment.line.scss",
 				"comment.line.double-slash.js",
 				"punctuation.definition.comment.scss",
@@ -360,14 +331,6 @@
 			],
 			"settings": {
 				"foreground": "#E5E669"
-			}
-		},
-		{
-			"scope": [
-				"entity.name.tag.html"
-			],
-			"settings": {
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -531,7 +494,6 @@
 			],
 			"settings": {
 				"foreground": "#C3C3B7",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -624,7 +586,6 @@
 			],
 			"settings": {
 				"foreground": "#E5E669",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -676,7 +637,6 @@
 			],
 			"settings": {
 				"foreground": "#9A1717",
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -702,14 +662,6 @@
 			],
 			"settings": {
 				"foreground": "#D8781850"
-			}
-		},
-		{
-			"scope": [
-				"markup.quote"
-			],
-			"settings": {
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -759,7 +711,6 @@
 			],
 			"settings": {
 				"foreground": "#A7A8AF",
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -788,6 +739,14 @@
 		},
 		{
 			"scope": [
+				"source.python"
+			],
+			"settings": {
+				"foreground": "#786030"
+			}
+		},
+		{
+			"scope": [
 				"entity.name.function"
 			],
 			"settings": {
@@ -808,6 +767,22 @@
 			],
 			"settings": {
 				"foreground": "#B94D4D"
+			}
+		},
+		{
+			"scope": [
+				"comment.line.number-sign.python"
+			],
+			"settings": {
+				"foreground": "#C3C3B7"
+			}
+		},
+		{
+			"scope": [
+				"keyword.control.flow.python"
+			],
+			"settings": {
+				"foreground": "#93938A"
 			}
 		},
 	]
